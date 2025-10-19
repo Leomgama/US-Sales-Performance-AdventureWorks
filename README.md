@@ -26,5 +26,5 @@ Analysis of AdventureWorks sales and financial performance using SQL and Power B
   - **Power BI**: Dashboards, visualizations, KPI tracking, and reporting.
   - **Business Analysis**: Interpreting data to generate actionable insights and recommendations.
  
-  ## Portfolio Use
-  This project demonstrates the ability to transform raw data into meaningful insights using SQL and Power BI, with a clear focus on business impact. 
+## Portfolio Use
+This project demonstrates the ability to transform raw data into meaningful insights using SQL and Power BI, with a clear focus on business impact. 
