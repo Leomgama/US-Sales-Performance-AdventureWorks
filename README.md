@@ -16,15 +16,15 @@ Analysis of AdventureWorks sales and financial performance using SQL and Power B
 - **Regional Performance**: Identified which regions in the USA achieve the highest profit margin.
 - **Business Recommendations**: Insights highlight opportunities to optimize inventory, pricing, and marketing strategies.
 
-  ## How to Explore
-  1. Open SQL scripts in the 'SQL Scripts' folder to review queries.
-  2. Open Power BI screenshots in the 'Screenshots PowerBI' folder to view visualizations.
-  3. Read the final report for detailed analysis, insights, and recommendations.
+## How to Explore
+1. Open SQL scripts in the 'SQL Scripts' folder to review queries.
+2. Open Power BI screenshots in the 'Screenshots PowerBI' folder to view visualizations.
+3. Read the final report for detailed analysis, insights, and recommendations.
  
-  ## Skills Highlighted
-  - **SQL**: Querying, joining tables, filtering, and analyzing financial data.
-  - **Power BI**: Dashboards, visualizations, KPI tracking, and reporting.
-  - **Business Analysis**: Interpreting data to generate actionable insights and recommendations.
+## Skills Highlighted
+- **SQL**: Querying, joining tables, filtering, and analyzing financial data.
+- **Power BI**: Dashboards, visualizations, KPI tracking, and reporting.
+- **Business Analysis**: Interpreting data to generate actionable insights and recommendations.
  
 ## Portfolio Use
 This project demonstrates the ability to transform raw data into meaningful insights using SQL and Power BI, with a clear focus on business impact. 
